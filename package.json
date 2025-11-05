@@ -1,0 +1,16 @@
+{
+  "name": "dbreader",
+  "version": "1.0.0",
+  "description": "A minimal Spring Boot server that exposes MySQL schema metadata for an LLM via HTTP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.21.0",
+    "zod": "^3.25.76"
+  }
+}
