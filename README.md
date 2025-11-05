@@ -1,3 +1,6 @@
+**[MCP 전용 API 서버]**<br><br>
+
+MySQL 전용으로 만듬<br><br>
 주요 API 설명
 
 1) GET /listTables: 현재 연결된 MySQL 스키마의 모든 테이블명을 배열로 반환.
